@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archives"),
         ("/categories/index.html", "Tags"),
-        ("https://hoangducchinh.github.io/", "My Page"),
+        ('https://hoangducchinh.github.io/', 'My Page'),
     ),
 }
 
@@ -148,7 +148,7 @@ NAVIGATION_LINKS = {
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
 NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: {}
+    DEFAULT_LANG: { }
 }
 
 # Name of the theme to use.
