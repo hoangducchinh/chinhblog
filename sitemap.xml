@@ -6,23 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://hoangducchinh.github.io/blog/</loc>
+  <loc>https://hoangducchinh.github.io/chinhblog/</loc>
   <lastmod>2019-05-04T14:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://hoangducchinh.github.io/blog/archive.html</loc>
-  <lastmod>2019-05-04T14:46:00Z</lastmod>
+  <loc>https://hoangducchinh.github.io/chinhblog/archive.html</loc>
+  <lastmod>2019-05-04T15:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://hoangducchinh.github.io/blog/categories/</loc>
+  <loc>https://hoangducchinh.github.io/chinhblog/categories/</loc>
   <lastmod>2019-05-04T14:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://hoangducchinh.github.io/blog/galleries/</loc>
+  <loc>https://hoangducchinh.github.io/chinhblog/galleries/</loc>
   <lastmod>2019-05-04T14:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://hoangducchinh.github.io/blog/listings/</loc>
+  <loc>https://hoangducchinh.github.io/chinhblog/listings/</loc>
   <lastmod>2019-05-04T14:38:00Z</lastmod>
  </url>
 </urlset>

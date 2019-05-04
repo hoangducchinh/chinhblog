@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://hoangducchinh.github.io/blog/galleries/rss.xml</loc>
-  <lastmod>2019-05-04T14:46:00Z</lastmod>
+  <loc>https://hoangducchinh.github.io/chinhblog/galleries/rss.xml</loc>
+  <lastmod>2019-05-04T15:13:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://hoangducchinh.github.io/blog/rss.xml</loc>
-  <lastmod>2019-05-04T14:45:00Z</lastmod>
+  <loc>https://hoangducchinh.github.io/chinhblog/rss.xml</loc>
+  <lastmod>2019-05-04T15:13:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://hoangducchinh.github.io/blog/sitemap.xml</loc>
-  <lastmod>2019-05-04T14:46:00Z</lastmod>
+  <loc>https://hoangducchinh.github.io/chinhblog/sitemap.xml</loc>
+  <lastmod>2019-05-04T15:13:00Z</lastmod>
  </sitemap>
 </sitemapindex>
