@@ -1,4 +1,4 @@
-Sitemap: https://hoangducchinh.github.io/blog/sitemapindex.xml
+Sitemap: https://hoangducchinh.github.io/chinhblog/sitemapindex.xml
 
 User-Agent: *
 Host: hoangducchinh.github.io

@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Hoang Duc Chinh"  # (translatable)
 BLOG_TITLE = "A corner of the world"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://hoangducchinh.github.io/blog/"
+SITE_URL = "https://hoangducchinh.github.io/chinhblog/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
