@@ -139,10 +139,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ('https://hoangducchinh.github.io/', 'My Page'),
+        ("/categories/index.html", "Tags"),		
+        ("https://hoangducchinh.github.io/", "My Page"),
     ),
 }
+#("/rss.xml", "RSS feed"),
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -152,7 +153,8 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+# THEME = "bootblog4"
+THEME = "bootstrap3-gradients"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
